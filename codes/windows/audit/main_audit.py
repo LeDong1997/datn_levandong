@@ -31,7 +31,6 @@ def main():
                 if result == SUCCESS_CODE:
                     result = insert_or_update_monitor_object(argv[2], argv[3])
                     if result == SUCCESS_CODE:
-                        print("truoc add_rule\n")
                         result = add_audit_rules(argv[2], argv[3])
                         if result == ERROR_CODE:
                             remove_monitor_object(argv[2], argv[3])

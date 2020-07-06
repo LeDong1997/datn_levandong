@@ -1,0 +1,81 @@
+2020-06-08 09:58:09|Success|-d|C:\Users\Cu Lee\Desktop\Test_000_000.enc
+2020-06-08 09:58:21|Success|-d|C:\Users\Cu Lee\Desktop\Test_000.enc
+2020-06-08 10:00:10|Error|-d|C:\Users\Cu Lee\Desktop\Test.txt
+2020-06-08 10:47:47|Success|-d|C:\Users\Cu Lee\Desktop\Test\venv\Lib\site-packages\matplotlib\backends\web_backend\js\nbagg_mpl_000_000.enc
+2020-06-08 10:51:50|Success|-e|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\SelfTest\Cipher\__init__.py\RFC1751.cpython-38.pyc
+2020-06-08 10:52:49|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\SelfTest\PublicKey\test_vectors\ECC\ecc_p256_private_enc_aes256_gcm_000.enc
+2020-06-09 10:52:50|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\Util\_strxor.cp38-win_amd64_000.enc
+2020-06-11 10:57:08|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\pip\_vendor\urllib3\__pycache__\__init__.cpython-38_000.enc2020-07-06 17:11:41|Success|-e|C:\File-1KB.txt
+2020-07-06 17:11:55|Success|-d|C:\File-1KB_000.enc
+2020-07-06 19:01:47|Success|-e|C:\File-1KB.txt
+2020-07-06 19:02:08|Success|-d|C:\File-1KB_000.enc
+2020-07-06 19:07:40|Success|-e|C:\File-3GB.zip
+2020-07-06 21:51:58|Success|-e|C:\File-1KB.txt
+2020-07-06 21:52:14|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\asn1.py
+2020-07-06 21:52:15|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\asn1.pyi
+2020-07-06 21:52:15|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\Counter.py
+2020-07-06 21:52:15|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\Counter.pyi
+2020-07-06 21:52:15|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\number.py
+2020-07-06 21:52:15|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\number.pyi
+2020-07-06 21:52:15|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\Padding.py
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\Padding.pyi
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\py3compat.py
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\py3compat.pyi
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\RFC1751.py
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\RFC1751.pyi
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\strxor.py
+2020-07-06 21:52:16|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\strxor.pyi
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_cpuid_c.cp38-win_amd64.pyd
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_cpu_features.py
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_cpu_features.pyi
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_file_system.py
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_file_system.pyi
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_raw_api.py
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_raw_api.pyi
+2020-07-06 21:52:17|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\_strxor.cp38-win_amd64.pyd
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__init__.py
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\asn1.cpython-38.pyc
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\Counter.cpython-38.pyc
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\number.cpython-38.pyc
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\Padding.cpython-38.pyc
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\py3compat.cpython-38.pyc
+2020-07-06 21:52:18|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\RFC1751.cpython-38.pyc
+2020-07-06 21:52:19|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\strxor.cpython-38.pyc
+2020-07-06 21:52:19|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\_cpu_features.cpython-38.pyc
+2020-07-06 21:52:19|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\_file_system.cpython-38.pyc
+2020-07-06 21:52:19|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\_raw_api.cpython-38.pyc
+2020-07-06 21:52:19|Success|-e|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\__init__.cpython-38.pyc
+2020-07-06 21:52:59|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\asn1_000.enc
+2020-07-06 21:52:59|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\asn1_001.enc
+2020-07-06 21:52:59|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\Counter_000.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\Counter_001.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\number_000.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\number_001.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\Padding_000.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\Padding_001.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\py3compat_000.enc
+2020-07-06 21:53:00|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\py3compat_001.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\RFC1751_000.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\RFC1751_001.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\strxor_000.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\strxor_001.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_cpuid_c.cp38-win_amd64_000.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_cpu_features_000.enc
+2020-07-06 21:53:01|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_cpu_features_001.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_file_system_000.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_file_system_001.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_raw_api_000.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_raw_api_001.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\_strxor.cp38-win_amd64_000.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__init___000.enc
+2020-07-06 21:53:02|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\asn1.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\Counter.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\number.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\Padding.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\py3compat.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\RFC1751.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\strxor.cpython-38_000.enc
+2020-07-06 21:53:03|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\_cpu_features.cpython-38_000.enc
+2020-07-06 21:53:04|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\_file_system.cpython-38_000.enc
+2020-07-06 21:53:04|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\_raw_api.cpython-38_000.enc
+2020-07-06 21:53:04|Success|-d|C:\Users\Administrator\Desktop\Test\Crypto\Util\__pycache__\__init__.cpython-38_000.enc

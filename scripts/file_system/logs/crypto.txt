@@ -5,4 +5,5 @@
 2020-06-08 10:51:50|Success|-e|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\SelfTest\Cipher\__init__.py\RFC1751.cpython-38.pyc
 2020-06-08 10:52:49|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\SelfTest\PublicKey\test_vectors\ECC\ecc_p256_private_enc_aes256_gcm_000.enc
 2020-06-09 10:52:50|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\Util\_strxor.cp38-win_amd64_000.enc
-2020-06-11 10:57:08|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\pip\_vendor\urllib3\__pycache__\__init__.cpython-38_000.enc
+2020-06-11 10:57:08|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\pip\_vendor\urllib3\__pycache__\__init__.cpython-38_000.enc2020-07-06 17:11:41|Success|-e|C:\File-1KB.txt
+2020-07-06 17:11:55|Success|-d|C:\File-1KB_000.enc
