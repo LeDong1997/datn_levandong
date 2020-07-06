@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8afffbb4-6295-449c-bf81-45896313603f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HOST-IPS/codes/windows/audit/audit_windows_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HOST-IPS/codes/windows/audit/audit_windows_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HOST-IPS/databases/monitor.db" beforeDir="false" afterPath="$PROJECT_DIR$/../HOST-IPS/databases/monitor.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HOST-IPS/demo_monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HOST-IPS/demo_monitor.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../HOST-IPS" />
+  </component>
+  <component name="JupyterTrust" id="9075419b-c2c8-49fe-9d4c-5b6feaf907b6" />
+  <component name="ProjectId" id="1eBQLBJgBJ0HhHFVM1qqGIHvAIc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HOST-IPS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BKCS Lab\IDPS\datn_levandong\scripts\file_system" />
+      <recent name="D:\BKCS Lab\IDPS\datn_levandong" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8afffbb4-6295-449c-bf81-45896313603f" name="Default Changelist" comment="" />
+      <created>1593792447623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593792447623</updated>
+      <workItem from="1593792449104" duration="441000" />
+      <workItem from="1593792935952" duration="938000" />
+      <workItem from="1593794001414" duration="1372000" />
+      <workItem from="1593844852957" duration="40000" />
+      <workItem from="1593845135956" duration="1510000" />
+      <workItem from="1593869312898" duration="794000" />
+      <workItem from="1593876905580" duration="2337000" />
+      <workItem from="1593959099994" duration="1314000" />
+      <workItem from="1593960441331" duration="8250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1593960056827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593960056827" />
+  </component>
+</project>

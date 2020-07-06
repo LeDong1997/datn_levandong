@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HOST-IPS/.idea/HOST-IPS.iml" filepath="$PROJECT_DIR$/../HOST-IPS/.idea/HOST-IPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/datn_levandong.iml" filepath="$PROJECT_DIR$/.idea/datn_levandong.iml" />
+    </modules>
+  </component>
+</project>

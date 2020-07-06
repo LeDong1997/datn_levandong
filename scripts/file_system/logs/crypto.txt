@@ -1,0 +1,8 @@
+2020-06-08 09:58:09|Success|-d|C:\Users\Cu Lee\Desktop\Test_000_000.enc
+2020-06-08 09:58:21|Success|-d|C:\Users\Cu Lee\Desktop\Test_000.enc
+2020-06-08 10:00:10|Error|-d|C:\Users\Cu Lee\Desktop\Test.txt
+2020-06-08 10:47:47|Success|-d|C:\Users\Cu Lee\Desktop\Test\venv\Lib\site-packages\matplotlib\backends\web_backend\js\nbagg_mpl_000_000.enc
+2020-06-08 10:51:50|Success|-e|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\SelfTest\Cipher\__init__.py\RFC1751.cpython-38.pyc
+2020-06-08 10:52:49|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\SelfTest\PublicKey\test_vectors\ECC\ecc_p256_private_enc_aes256_gcm_000.enc
+2020-06-09 10:52:50|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\Crypto\Util\_strxor.cp38-win_amd64_000.enc
+2020-06-11 10:57:08|Success|-d|C:\Users\Cu Lee\Desktop\Test\Lib\site-packages\pip\_vendor\urllib3\__pycache__\__init__.cpython-38_000.enc
